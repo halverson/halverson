@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @halverson, a UX and UI designer who codes.
+- 👋 Hi, I’m @halverson, a UI designer who codes.
 - 👀 I’m interested in all things design, bouldering, and running small businesses.
 - 🌱 I’m currently learning better CSS practices.
 - 💞️ I’m looking to collaborate on... nothing atm :)
